@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consuming-rest" target="1.8" />
+      <module name="consuming-rest_main" target="1.8" />
+      <module name="consuming-rest_test" target="1.8" />
+      <module name="relational-data-access_main" target="1.8" />
+      <module name="relational-data-access_test" target="1.8" />
+      <module name="rest-service_main" target="1.8" />
+      <module name="rest-service_test" target="1.8" />
+      <module name="scheduling-tasks_main" target="1.8" />
+      <module name="scheduling-tasks_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
