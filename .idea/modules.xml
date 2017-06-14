@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/consuming-rest/consuming-rest.iml" filepath="$PROJECT_DIR$/consuming-rest/consuming-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest_main.iml" group="consuming-rest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest_test.iml" group="consuming-rest" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/messaging-redis/messaging-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-redis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-redis_main.iml" group="messaging-redis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-redis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-redis_test.iml" group="messaging-redis" />
       <module fileurl="file://$PROJECT_DIR$/relational-data-access/relational-data-access.iml" filepath="$PROJECT_DIR$/relational-data-access/relational-data-access.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/relational-data-access_main.iml" filepath="$PROJECT_DIR$/.idea/modules/relational-data-access_main.iml" group="relational-data-access" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/relational-data-access_test.iml" filepath="$PROJECT_DIR$/.idea/modules/relational-data-access_test.iml" group="relational-data-access" />
