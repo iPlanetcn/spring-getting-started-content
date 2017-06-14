@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks_main.iml" group="scheduling-tasks" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks_test.iml" group="scheduling-tasks" />
+      <module fileurl="file://$PROJECT_DIR$/uploading-files/uploading-files.iml" filepath="$PROJECT_DIR$/uploading-files/uploading-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uploading-files_main.iml" filepath="$PROJECT_DIR$/.idea/modules/uploading-files_main.iml" group="uploading-files" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uploading-files_test.iml" filepath="$PROJECT_DIR$/.idea/modules/uploading-files_test.iml" group="uploading-files" />
     </modules>
   </component>
 </project>

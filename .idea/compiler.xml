@@ -19,6 +19,8 @@
       <module name="rest-service_test" target="1.8" />
       <module name="scheduling-tasks_main" target="1.8" />
       <module name="scheduling-tasks_test" target="1.8" />
+      <module name="uploading-files_main" target="1.8" />
+      <module name="uploading-files_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
