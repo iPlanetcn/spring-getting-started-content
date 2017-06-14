@@ -10,6 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="authenticating-ldap_main" target="1.8" />
+      <module name="authenticating-ldap_test" target="1.8" />
       <module name="consuming-rest" target="1.8" />
       <module name="consuming-rest_main" target="1.8" />
       <module name="consuming-rest_test" target="1.8" />
