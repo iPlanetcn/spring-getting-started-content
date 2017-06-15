@@ -2,24 +2,34 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authenticating-ldap.iml" filepath="$PROJECT_DIR$/.idea/modules/authenticating-ldap.iml" />
       <module fileurl="file://$PROJECT_DIR$/authenticating-ldap/authenticating-ldap.iml" filepath="$PROJECT_DIR$/authenticating-ldap/authenticating-ldap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authenticating-ldap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/authenticating-ldap_main.iml" group="authenticating-ldap" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authenticating-ldap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/authenticating-ldap_test.iml" group="authenticating-ldap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/consuming-rest/consuming-rest.iml" filepath="$PROJECT_DIR$/consuming-rest/consuming-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest_main.iml" group="consuming-rest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest_test.iml" group="consuming-rest" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-rabbitmq/messaging-rabbitmq.iml" filepath="$PROJECT_DIR$/messaging-rabbitmq/messaging-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-rabbitmq_main.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-rabbitmq_main.iml" group="messaging-rabbitmq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-rabbitmq_test.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-rabbitmq_test.iml" group="messaging-rabbitmq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-redis.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/messaging-redis/messaging-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-redis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-redis_main.iml" group="messaging-redis" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-redis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-redis_test.iml" group="messaging-redis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/relational-data-access.iml" filepath="$PROJECT_DIR$/.idea/modules/relational-data-access.iml" />
       <module fileurl="file://$PROJECT_DIR$/relational-data-access/relational-data-access.iml" filepath="$PROJECT_DIR$/relational-data-access/relational-data-access.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/relational-data-access_main.iml" filepath="$PROJECT_DIR$/.idea/modules/relational-data-access_main.iml" group="relational-data-access" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/relational-data-access_test.iml" filepath="$PROJECT_DIR$/.idea/modules/relational-data-access_test.iml" group="relational-data-access" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-service.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/rest-service/rest-service.iml" filepath="$PROJECT_DIR$/rest-service/rest-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-service_main.iml" group="rest-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-service_test.iml" group="rest-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks_main.iml" group="scheduling-tasks" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks_test.iml" group="scheduling-tasks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uploading-files.iml" filepath="$PROJECT_DIR$/.idea/modules/uploading-files.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploading-files/uploading-files.iml" filepath="$PROJECT_DIR$/uploading-files/uploading-files.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/uploading-files_main.iml" filepath="$PROJECT_DIR$/.idea/modules/uploading-files_main.iml" group="uploading-files" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/uploading-files_test.iml" filepath="$PROJECT_DIR$/.idea/modules/uploading-files_test.iml" group="uploading-files" />
